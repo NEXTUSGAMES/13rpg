@@ -1,3 +1,5 @@
+alert("game.js 로드됨");
+
 let playerHP = 100;
 let enemyHP = 50;
 
